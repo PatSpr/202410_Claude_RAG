@@ -33,10 +33,12 @@ Whether you're looking to enhance your understanding of RAG or implement it in a
 
 - Place your `.csv`, `.txt`, `.docx`, or `.pdf` files in the `cleaned_data` folder.
 
+
 #### 2.2 Web-Based Extraction
 
 - Extract data from web pages, saving and cleaning it for further use. 
-- Place your URLs into the "KnowledgeURL.csv" file, check for the websites privacy / data extraction and usage rules and act accordingly to it
+- To do so, place your URLs into the "KnowledgeURL.csv" file, check for the websites privacy / data extraction and usage rules and act accordingly to it
+- You can combine 2.1 and 2.2
 
 ### 3. LLM & Embedding
 
@@ -59,4 +61,14 @@ Run these commands:
 
 ## 3.2 Loading Environment Variables
 
-Load your environment variables (PERSONAL_ANTHROPIC_API_KEY=YOURKEY) securely using Python .env file.
+Define your environment variables (PERSONAL_ANTHROPIC_API_KEY=YOURKEY) securely. Create a .env file to do so.
+
+
+## 4 Define user and system prompts
+- Define you desired user and system prompt in the last section of the "LLM_RAG.ipynb" notebook
+
+## 5 Run ipynb Notebooks
+- Run the WebExtract.ipynb notebook first, if you want to extract knowldge from your defined URLs in the "KnowledgeURL.csv" file
+- Run "LLM_RAG.ipynb" next
+
+

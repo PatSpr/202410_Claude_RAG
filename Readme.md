@@ -59,4 +59,4 @@ Run these commands:
 
 ## 3.2 Loading Environment Variables
 
-Load your environment variables securely using Python .env file.
+Load your environment variables (PERSONAL_ANTHROPIC_API_KEY=YOURKEY) securely using Python .env file.

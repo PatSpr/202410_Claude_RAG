@@ -23,9 +23,9 @@ Whether you're looking to enhance your understanding of RAG or implement it in a
 
 ### 1. Working Environment
 
-- **VSCode**: Set up a project with a virtual environment.
-- **Jupyter Notebooks**: Install the extension for an enhanced coding experience.#
-- **Anthrophic**: Setup an Account and charge up with 5 euros for API usage.
+- **VSCode**: Set up a virtual environment & activate it.
+- **Jupyter Notebooks**: Install Jupyter Notebooks & create and select a kernel
+- **Anthrophic**: Setup an Account and charge it up with 5 euros for API usage.
 
 ### 2. Knowledge Base
 

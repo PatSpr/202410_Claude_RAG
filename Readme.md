@@ -50,10 +50,11 @@ Run these commands:
 !python -m pip install llama-index-embeddings-huggingface 
 !python -m pip install python-dotenv
 !python -m ensurepip 
-!pip -m pip install beautifulsoup4
-!pip -m pip install numpy 
-!pip -m pip install pandas
-!pip -m pip install requests 
+!python -m pip install beautifulsoup4
+!python -m pip install numpy 
+!python -m pip install pandas
+!python -m pip install requests 
+!python -m pip install install ipykernel
 ```
 
 ## 3.2 Loading Environment Variables

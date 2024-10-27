@@ -1,4 +1,4 @@
-# 🚀 Retrieval-Augmented Generation (RAG) Setup Guide
+# 🚀 Chat with your documents with Claude and LlamaIndex
 
 ## 🌟 Highlights
 

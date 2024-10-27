@@ -37,7 +37,7 @@ Whether you're looking to enhance your understanding of RAG or implement it in a
 #### 2.2 Web-Based Extraction
 
 - Extract data from web pages, saving and cleaning it for further use. 
-- To do so, place your URLs into the "KnowledgeURL.csv" file, check for the websites privacy / data extraction and usage rules and act accordingly to it
+- To do so, place your URLs into the "knowledge_url.csv" file, check for the websites privacy / data extraction and usage rules and act accordingly to it
 - You can combine 2.1 and 2.2
 
 ### 3. LLM & Embedding
@@ -65,10 +65,10 @@ Define your environment variables (PERSONAL_ANTHROPIC_API_KEY=YOURKEY) securely.
 
 
 ## 4 Define user and system prompts
-- Define you desired user and system prompt in the last section of the "LLM_RAG.ipynb" notebook
+- Define you desired user and system prompt in the last section of the "llm_rag.ipynb" notebook
 
 ## 5 Run ipynb Notebooks
-- Run the WebExtract.ipynb notebook first, if you want to extract knowldge from your defined URLs in the "KnowledgeURL.csv" file
-- Run "LLM_RAG.ipynb" next
+- Run the WebExtract.ipynb notebook first, if you want to extract knowldge from your defined URLs in the "knowledge_url.csv" file
+- Run "llm_rag.ipynb" next
 
 

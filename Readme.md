@@ -44,7 +44,7 @@ Whether you're looking to enhance your understanding of RAG or implement it in a
 
 #### 3.1 Dependency Setup
 
-Run these commands:
+Install following libraries / dependencies, or use requirements file or run first comment line of the notebook files:
 
 ```bash
 !python -m pip install llama-index

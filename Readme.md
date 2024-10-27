@@ -59,15 +59,3 @@ Run these commands:
 ## 3.2 Loading Environment Variables
 
 Load your environment variables securely using Python .env file.
-
-## 4. Llama Index, Document Loading & Querying
-
-Build your index and execute queries using Llama Index for intelligent responses.
-
-## 5. Expanding Your Knowledge
-
-Consider adding structured data and advanced embedding models to your knowledge base.
-
-## 6. Considerations for Production
-
-Evaluate performance, scalability, and security as you move to production.
